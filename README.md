@@ -15,7 +15,7 @@ Steps to run application on Windows
 
 Please note, these are very important commands to run this app successfully as it downloads all npm modules required to run the code
 
-4> Download this repository and Extract the zip file to your folder and overwrite private and src folder and other files in downloaded zip
+4> Download this repository and Extract the zip file to your folder and overwrite private and src folder and other files in downloaded zip(like package.json, package-lock.json and git files)
 
 5> Go to Command Prompt
 
