@@ -8,6 +8,7 @@ This is a mini Phone Directory application, which has the functionalities to add
 Steps to run application on Windows
 
 1> npx create-react-app phone_directory_app
+Please note, this is very imp command to run this app successfully as it downloads all npm modules required to run the code
 
 2> Download and Extract the zip file to your folder and overwrite private and src folder and other files in downloaded zip
 
